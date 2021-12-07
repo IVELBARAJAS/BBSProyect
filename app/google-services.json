@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922794966664",
+    "project_id": "bbspirelli",
+    "storage_bucket": "bbspirelli.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922794966664:android:c0413060121e0418b1293d",
+        "android_client_info": {
+          "package_name": "com.example.behaviorbasedsafety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922794966664-k5kg5g51ie59fu6f4osc3opkc7qae3l5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv_UqfudlIxKXgkWkIaWEC6Dk6cN7bKQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922794966664-k5kg5g51ie59fu6f4osc3opkc7qae3l5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Behavior Based Safety</string>
+    <string name="user_lbl">User</string>
+    <string name="password_lbl">Password</string>
+    <string name="btn_enter">Login</string>
+    <string name="lbl_ask">Do not have an account?</string>
+    <string name="lbl_register"><b><u>Register</u></b></string>
+    <string name="btn_register">Register</string>
+    <string name="lbl_ask2">Do you already have an account?</string>
+    <string name="lbl_login"><b><u>Login</u></b></string>
+    <string name="lbl_email">Email</string>
+    <string name="lbl_user_id">ID</string>
+    <string name="btn_logout">Logout</string>
+    <string name="my_profile">Profile</string>
+    <string name="btn_create">Create BBS</string>
+    <string name="btn_view">View all BBSs</string>
+    <string name="lbl_area">Area</string>
+    <string name="lbl_place">Place/Machine</string>
+    <string name="lbl_worker_reaction">Workers Reaction</string>
+    <string name="lbl_worker_position">Workers Position</string>
+    <string name="lbl_epp">EPP</string>
+    <string name="lbl_tools">Tools</string>
+    <string name="lbl_procedure">Procedures</string>
+    <string name="lbl_5s">5s</string>
+    <string name="lbl_working_status">Working safe</string>
+    <string name="txt_comments">Comments</string>
+    <string name="lbl_safe_count">Workers working safe</string>
+    <string name="lbl_unsafe_count">Workers working unsafe</string>
+    <string name="btn_send">Send</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

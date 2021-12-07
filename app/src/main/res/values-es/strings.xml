@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Comportamiento Seguro</string>
+    <string name="user_lbl">Usuario</string>
+    <string name="password_lbl">Contrasena</string>
+    <string name="btn_enter">Ingresar</string>
+    <string name="lbl_ask">Aun no tienes una cuenta?</string>
+    <string name="lbl_register"><b><u>Registrarse</u></b></string>
+    <string name="btn_register">Registro</string>
+    <string name="lbl_ask2">Ya tienes una cuenta?</string>
+    <string name="lbl_login"><b><u>Ingresar</u></b></string>
+    <string name="lbl_email">Email</string>
+    <string name="lbl_user_id">ID</string>
+    <string name="btn_logout">Salir</string>
+    <string name="my_profile">Perfil</string>
+    <string name="btn_create">Crear BBS</string>
+    <string name="btn_view">Ver todas las BBSs</string>
+    <string name="lbl_area">Area</string>
+    <string name="lbl_place">Lugar/Machine</string>
+    <string name="lbl_worker_reaction">Reacción de personas</string>
+    <string name="lbl_worker_position">Posición de personas</string>
+    <string name="lbl_epp">EPP</string>
+    <string name="lbl_tools">Herramientas</string>
+    <string name="lbl_procedure">Procedimientos</string>
+    <string name="lbl_5s">5s</string>
+    <string name="lbl_working_status">Trabajando seguro</string>
+    <string name="txt_comments">Comentarios</string>
+    <string name="lbl_safe_count">Personas trabajando seguro</string>
+    <string name="lbl_unsafe_count">Personas trabajando mal</string>
+    <string name="btn_send">Enviar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
